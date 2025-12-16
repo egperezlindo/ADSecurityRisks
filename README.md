@@ -17,5 +17,3 @@ Este script facilita la **Higiene de Identidades** (Identity Hygiene) al auditar
 ## 🚀 
 
 
-```powershell
-.\Audit-ADSecurityRisks.ps1
